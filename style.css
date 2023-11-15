@@ -1,0 +1,49 @@
+header {
+background-color: #0D1282;
+padding: 5% 0 3% 0;
+text-align: center;
+}
+
+h1 {
+color: #F0DE36;
+font-size: 4rem;
+font-family: "satisfy", cursive;
+}
+
+h2 {
+color: #FF9209;
+font-size:2rem;
+font-family: "Permanent Marker", cursive;
+}
+
+h3 {
+font-family: "Bree Serif", serif;
+text-align: center;
+font-size: 2rem;
+padding: 2% 0 3%;	
+}
+
+p {
+font-family: "Bree Serif", serif;
+font-size: 1.5rem;	
+}
+
+main {
+background-color: #EEEDED;
+padding: 3% 0 5%;
+}
+
+footer {
+background-color: #0D1282;
+padding: 5% 0 3% 0;
+text-align: center;
+}
+
+img {
+width:50%
+}
+
+img:hover {
+transform: scale(2.5);
+transition: .3s ease-in-out;
+}
